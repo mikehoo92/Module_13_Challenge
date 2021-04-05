@@ -42,6 +42,12 @@ _Model Summary_
 
 ---
 
+## Summary
+
+After creating a few additional models to see if the accuracy can be improved, I did not acheive a better accuracy. I added more hidden layers, however that did not work. I also reduced the number of input layers and that did not work either. The accuracy of the additional models was only off by 0.5% - 1% at most. I did realize that increasing the epochs from 50 to 80 or 100 slightly increased accuracy. 
+
+---
+
 ## Contributors
 
 Michael Husary was the main contributer along with fellow classmates and the educational staff. 
